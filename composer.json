@@ -12,10 +12,10 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload":{
-        'files' : [
-            'core/functions.php',
+        "files" : [
+            "core/functions.php",
         ],
-        'psr-4':{
+        "psr-4":{
             "core\\":"core/",
             "web\\" : "web/"
 
