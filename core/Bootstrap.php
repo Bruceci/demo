@@ -1,6 +1,6 @@
 <?php 
 namespace core;
-class bootstrap{
+class Bootstrap{
 	
 	public static function run(){
 
