@@ -1,5 +1,3 @@
 <?php 
-function helloworld(){
-	
-	echo 'hello';
-}
+include "vender/autoload.php";
+Bootstrap::run();
