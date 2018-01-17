@@ -1,0 +1,14 @@
+{
+    "name": "xishoufeng/demo",
+    "description": "demo project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bruceci",
+            "email": "18217016834@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
